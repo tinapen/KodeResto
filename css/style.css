@@ -13,9 +13,13 @@ img {
   border-radius: 5px;
 }
 
-#mainMenu,
-.nav-link.active {
+#mainMenu .nav-link.active {
   background: #17a2b8;
   color: #333;
   border-radius: 5px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: #262626;
 }
